@@ -88,7 +88,7 @@ In the next few releases, our team will focus on:
 
 ### About the Authors
 
-Rentong Guo is a Director of R&D at ZILLIZ. He received a Ph.D. degree in Computer Software and Theory from Huazhong University of Science and Technology (HUST), China. He spends his career participating in and leading projects in the area of database, cache system, distributed system, and heterogeneous computing.
+Rentong Guo is a Director of R&D at Zilliz. He received a Ph.D. degree in Computer Software and Theory from Huazhong University of Science and Technology (HUST), China. He spends his career participating in and leading projects in the area of database, cache system, distributed system, and heterogeneous computing.
 
 
-Xiaomeng Yi is a senior researcher at ZILLIZ. Xiaomeng Yi received his Ph.D. degree in Computer Architecture from Huazhong University of Science and Technology. His research focuses on scheduling and resource allocation in the cloud and distributed systems. His works are published in prestigious conferences and journals, such as IEEE Network Magazine, IEEE TON, IEEE ICDCS, and ACM TOMPECS.
+Xiaomeng Yi is a senior researcher at Zilliz. Xiaomeng Yi received his Ph.D. degree in Computer Architecture from Huazhong University of Science and Technology. His research focuses on scheduling and resource allocation in the cloud and distributed systems. His works are published in prestigious conferences and journals, such as IEEE Network Magazine, IEEE TON, IEEE ICDCS, and ACM TOMPECS.
